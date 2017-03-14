@@ -1,7 +1,7 @@
 {
     "name": "angular2-skeleton",
     "version": "1.0.0",
-    "description": "Rascal's Angular2 Skeleton project",
+    "description": "Perry Craft Angular 2 Skeleton App",
     "scripts": {
         "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
         "lite": "lite-server",
